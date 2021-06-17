@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+    color: brown;
+    padding: 20px;
+    border-style: ridge;
+}
+
+.heading-air-pollution{
+    text-align: center;
+}
+
+.air-img{
+    float: left;
+    padding: 4px;
+}
+
+.air2-img{
+    float: right;
+}
