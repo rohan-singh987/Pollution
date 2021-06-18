@@ -1,19 +1,29 @@
-header{
+header h1{
     text-align: center;
-    color: brown;
-    padding: 20px;
-    border-style: ridge;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* border-style: groove; */
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+    text-shadow: 2px 2px 60px black;
+    border-left: 6px solid black;
+    background-color: rgb(255, 255, 255);
+    
 }
-
-.heading-air-pollution{
+body{
+    background-image: url("protest.jpg");
+    background-repeat: one;
+    background-attachment: fixed;
+    background-size: 1000px 1200px;
+}
+.blog {
     text-align: center;
-}
-
-.air-img{
-    float: left;
-    padding: 4px;
-}
-
-.air2-img{
-    float: right;
-}
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* border-style: groove; */
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-shadow: 2px 2px 60px black;
+    list-style-position: inside;
+   
+   }
